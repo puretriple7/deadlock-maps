@@ -43,15 +43,7 @@ the maps are designed around fast lookups, accurate visibility checks, and keepi
 
 <br>
 
-## map data
 
-the actual deadlock map data is maintained separately.
-
-<p align="center">
-  <a href="https://github.com/puretriple7/deadlock-maps">
-    <img src="https://img.shields.io/badge/VIEW_MAP_DATA-7C3AED?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=09090b" />
-  </a>
-</p>
 
 <br>
 
