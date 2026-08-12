@@ -15,7 +15,7 @@
 
 ## 777 / maps
 
-a collection of pre-generated **Deadlock occlusion maps** built specifically for 777.as.
+a collection of pre-generated **deadlock occlusion maps** built specifically for 777.as.
 
 the maps are designed around fast lookups, accurate visibility checks, and keeping runtime overhead as low as possible.
 
