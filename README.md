@@ -3,18 +3,18 @@
 <p align="center"> <a href="https://777.as"> <img src="https://img.shields.io/badge/777-7C3AED?style=for-the-badge&labelColor=09090b" /> </a> <a href="https://github.com/puretriple7/deadlock-maps"> <img src="https://img.shields.io/badge/DEADLOCK_MAPS-00D9FF?style=for-the-badge&labelColor=09090b" /> </a> <a href="https://perception.cx/members/pure.2258/"> <img src="https://img.shields.io/badge/PCX_PROFILE-FF3366?style=for-the-badge&labelColor=09090b" /> </a> </p>
 
 <p align="center">
-  <strong>Deadlock occlusion maps for 777.as</strong>
+  <strong>deadlock occlusion maps for 777.as</strong>
   <br>
-  <sub>High-performance visibility and obstruction data.</sub>
+  <sub>high-performance visibility and obstruction data.</sub>
 </p>
 
 <br>
 
 ## 777 / maps
 
-A collection of pre-generated **Deadlock occlusion maps** built specifically for 777.as.
+a collection of pre-generated **Deadlock occlusion maps** built specifically for 777.as.
 
-The maps are designed around fast lookups, accurate visibility checks, and keeping runtime overhead as low as possible.
+the maps are designed around fast lookups, accurate visibility checks, and keeping runtime overhead as low as possible.
 
 <br>
 
@@ -42,22 +42,11 @@ The maps are designed around fast lookups, accurate visibility checks, and keepi
 
 ## map data
 
-The actual Deadlock map data is maintained separately.
+the actual deadlock map data is maintained separately.
 
 <p align="center">
   <a href="https://github.com/puretriple7/deadlock-maps">
     <img src="https://img.shields.io/badge/VIEW_MAP_DATA-7C3AED?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=09090b" />
-  </a>
-</p>
-
-<br>
-
-## perception.cx
-
-
-<p align="center">
-  <a href="https://perception.cx/members/pure.2258/">
-    <img src="https://img.shields.io/badge/PCX_PROFILE-FF3366?style=for-the-badge&labelColor=09090b" />
   </a>
 </p>
 
