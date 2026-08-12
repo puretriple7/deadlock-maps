@@ -1,17 +1,6 @@
 # 777
 
-<p align="center">
-  <a href="https://777.as">
-    <img src="https://img.shields.io/badge/777-7C3AED?style=for-the-badge&labelColor=09090b" />
-  </a>
-  <a href="https://github.com/puretriple7/deadlock-maps">
-    <img src="https://img.shields.io/badge/DEADLOCK-00D9FF?style=for-the-badge&labelColor=09090b" />
-  </a>
-<p align="center">
-  <a href="https://perception.cx/members/pure.2258/">
-    <img src="https://img.shields.io/badge/PCX_PROFILE-FF3366?style=for-the-badge&labelColor=09090b" />
-  </a>
-</p>
+<p align="center"> <a href="https://777.as"> <img src="https://img.shields.io/badge/777-7C3AED?style=for-the-badge&labelColor=09090b" /> </a> <a href="https://github.com/puretriple7/deadlock-maps"> <img src="https://img.shields.io/badge/DEADLOCK-00D9FF?style=for-the-badge&labelColor=09090b" /> </a> <a href="https://perception.cx/members/pure.2258/"> <img src="https://img.shields.io/badge/PCX_PROFILE-FF3366?style=for-the-badge&labelColor=09090b" /> </a> </p>
 
 <p align="center">
   <strong>Deadlock occlusion maps for 777.as</strong>
