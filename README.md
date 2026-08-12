@@ -7,8 +7,9 @@
   <a href="https://github.com/puretriple7/deadlock-maps">
     <img src="https://img.shields.io/badge/DEADLOCK-00D9FF?style=for-the-badge&labelColor=09090b" />
   </a>
+<p align="center">
   <a href="https://perception.cx/members/pure.2258/">
-    <img src="https://img.shields.io/badge/PERCEPTION.CX-FF3366?style=for-the-badge&labelColor=09090b" />
+    <img src="https://img.shields.io/badge/PCX_PROFILE-FF3366?style=for-the-badge&labelColor=09090b" />
   </a>
 </p>
 
@@ -64,7 +65,6 @@ The actual Deadlock map data is maintained separately.
 
 ## perception.cx
 
-Part of the **perception.cx** ecosystem.
 
 <p align="center">
   <a href="https://perception.cx/members/pure.2258/">
